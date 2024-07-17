@@ -7,6 +7,7 @@
 # How to reach me 📫
  <a href="[https://twitter.com/iyiola_gmore](https://twitter.com/meesy0)"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" /></a>
     <a href="https://www.linkedin.com/in/ogedengbe-wisdom-a5241320a/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+    <a href="https://wisdomo.netlify.app/"><img src="https://wisdomo.netlify.app/weezy.jpg" /></a>
 
 
 <!---
