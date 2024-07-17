@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning  javaScript and React and constantly building on my previous knowledge to write a clean and well descriptive code.
 - 💞️ I’m looking to collaborate on Innovative and Real life project with an incredible objective towards achieving a life changing results.
 # How to reach me 📫
- <a href="[https://twitter.com/iyiola_gmore](https://twitter.com/meesy0)"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" /></a>
+ <a href="https://twitter.com/meesy0"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" /></a>
     <a href="https://www.linkedin.com/in/ogedengbe-wisdom-a5241320a/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
     <a href="https://wisdomo.netlify.app/">Wisdom</a>
 
